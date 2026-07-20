@@ -1,10 +1,24 @@
 # Hi, I'm Desmond Qoza 👋
+Building modern web applications with a strong focus on software architecture, maintainability, and user experience.
 
 **Front-End Developer | React • Next.js • TypeScript | Software Architecture | Technical Documentation**
 
 I build modern web applications with a focus on clean architecture, maintainable code, and intuitive user experiences. My interests extend beyond building interfaces—I enjoy designing systems that organize complex information into clear, actionable experiences.
 
 I approach every project with the belief that good software is not only functional but also understandable, scalable, and well documented - making it simple for users.
+
+---
+
+## 📫 Contact
+
+**Portfolio**
+https://potfolio-desmond.vercel.app/
+
+**GitHub**
+https://github.com/Desmond-intech
+
+**Indeed**
+https://profile.indeed.com/p/desmondq-zn4pm2q
 
 ---
 
@@ -63,7 +77,7 @@ Areas of focus include:
 * Confidence scoring
 * Intelligent UI design
 
-This project is currently maintained as a private repository.
+Currently under active development. Repository is private.
 
 ---
 
@@ -133,19 +147,6 @@ My QA work focuses on:
 * Maintainability improvements
 
 This analytical approach helps me build software that is reliable, understandable, and easier to improve over time.
-
----
-
-## 📫 Contact
-
-**Portfolio**
-https://potfolio-desmond.vercel.app/
-
-**GitHub**
-https://github.com/Desmond-intech
-
-**Indeed**
-https://profile.indeed.com/p/desmondq-zn4pm2q
 
 ---
 
