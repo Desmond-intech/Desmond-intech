@@ -152,4 +152,4 @@ This analytical approach helps me build software that is reliable, understandabl
 
 ---
 
-> *"Building clean, maintainable software that solves meaningful problems."*
+> *Building clean, maintainable software that solves meaningful problems.*
