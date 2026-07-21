@@ -103,6 +103,7 @@ Currently under active development. Repository is private.
 * Firebase
 * Firestore
 * Authentication
+* Node.js/Express.js
 
 ### Development
 
@@ -112,6 +113,11 @@ Currently under active development. Repository is private.
 * Technical Documentation
 * Quality Assurance
 * Performance Optimization
+
+### Deployment
+
+* Vercel
+* Firebase
 
 ---
 
