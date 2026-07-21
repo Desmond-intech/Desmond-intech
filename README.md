@@ -5,7 +5,11 @@ Building modern web applications with a strong focus on software architecture, m
 
 I build modern web applications with a focus on clean architecture, maintainable code, and intuitive user experiences. My interests extend beyond building interfaces—I enjoy designing systems that organize complex information into clear, actionable experiences.
 
-I approach every project with the belief that good software is not only functional but also understandable, scalable, and well documented - making it easier to use and maintain..
+I approach every project with the belief that good software is not only functional but also understandable, scalable, and well documented - making it easier to use and maintain.
+
+---
+
+Open to Front-End Developer opportunities.
 
 ---
 
