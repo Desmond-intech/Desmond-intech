@@ -5,7 +5,7 @@ Building modern web applications with a strong focus on software architecture, m
 
 I build modern web applications with a focus on clean architecture, maintainable code, and intuitive user experiences. My interests extend beyond building interfaces—I enjoy designing systems that organize complex information into clear, actionable experiences.
 
-I approach every project with the belief that good software is not only functional but also understandable, scalable, and well documented - making it simple for users.
+I approach every project with the belief that good software is not only functional but also understandable, scalable, and well documented - making it easier to use and maintain..
 
 ---
 
@@ -13,9 +13,6 @@ I approach every project with the belief that good software is not only function
 
 **Portfolio**
 https://potfolio-desmond.vercel.app/
-
-**GitHub**
-https://github.com/Desmond-intech
 
 **Indeed**
 https://profile.indeed.com/p/desmondq-zn4pm2q
@@ -85,13 +82,10 @@ Currently under active development. Repository is private.
 
 ### Front-End
 
-* React
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
+* React  Next.js
+* TypeScript JavaScript (ES6+)
 * HTML5
-* CSS3
-* Tailwind CSS
+* CSS3 Tailwind CSS
 
 ### State Management
 
@@ -100,9 +94,7 @@ Currently under active development. Repository is private.
 
 ### Backend & Services
 
-* Firebase
-* Firestore
-* Authentication
+* Firebase Firestore Authentication
 * Node.js/Express.js
 
 ### Development
@@ -156,4 +148,4 @@ This analytical approach helps me build software that is reliable, understandabl
 
 ---
 
-> *"Building software that is clean, maintainable, and designed to solve meaningful problems."*
+> *"Building clean, maintainable software that solves meaningful problems."*
