@@ -70,6 +70,9 @@ A professional portfolio showcasing selected projects, technical experience, and
 
 An ongoing project focused on building intelligent operational dashboards that transform business data into meaningful insights.
 
+**Live Demo**
+🔗 https://intelligent-systems-vgfk.vercel.app/
+
 Areas of focus include:
 
 * Decision Engine architecture
