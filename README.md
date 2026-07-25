@@ -16,7 +16,7 @@ Open to Front-End Developer opportunities.
 ## 📫 Contact
 
 **Portfolio**
-https://potfolio-desmond.vercel.app/
+https://portfolio-des-intech.vercel.app/
 
 **Indeed**
 https://profile.indeed.com/p/desmondq-zn4pm2q
@@ -60,7 +60,7 @@ A modern e-commerce platform built with React, Next.js, TypeScript, Redux Toolki
 A professional portfolio showcasing selected projects, technical experience, and software development philosophy.
 
 **Live Website**
-🔗 https://potfolio-desmond.vercel.app/
+🔗 https://portfolio-des-intech.vercel.app/
 
 > **Source code is available to prospective employers upon request for technical evaluation.**
 
